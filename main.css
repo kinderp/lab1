@@ -9,6 +9,10 @@ body {
 	padding: 20px 20px 20px 20px;
 }
 
+h1 {
+	margin: 10px 0 15px 0;
+}
+
 /* set nav bar list items orizontally
  * this rule does not affect other li
  * tag in our site
