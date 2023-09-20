@@ -1,0 +1,15 @@
+/* remove all previous box model formatting */
+html, body, h1, h2, h3, p, ol, li, a {
+	padding: 0;
+	border: 0;
+	margin: 0;
+}
+
+/* set nav bar list items orizontally
+ * this rule does not affect other li
+ * tag in our site
+ * */
+.nav li{
+	display: inline;
+}
+
