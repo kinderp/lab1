@@ -5,6 +5,10 @@ html, body, h1, h2, h3, p, ol, li, a {
 	margin: 0;
 }
 
+body {
+	padding: 20px 20px 20px 20px;
+}
+
 /* set nav bar list items orizontally
  * this rule does not affect other li
  * tag in our site
@@ -12,4 +16,3 @@ html, body, h1, h2, h3, p, ol, li, a {
 .nav li{
 	display: inline;
 }
-
