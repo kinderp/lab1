@@ -11,10 +11,12 @@ body {
 
 h1 {
 	margin: 10px 0 15px 0;
+	text-align: center;
 }
 
 h2 {
 	margin: 10px 0 20px 0;
+	text-align: center;
 }
 
 h3 {
@@ -77,6 +79,7 @@ ul, ol {
 .header h3 {
 	border-bottom: 0;
 	padding-bottom: 0;
+	text-align: center;
 }
 
 .main-content {
