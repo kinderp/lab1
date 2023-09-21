@@ -20,6 +20,8 @@ body {
 	margin: 30px 0 0 0;
 }
 
+
+
 h1 {
 	margin: 10px 0 15px 0;
 }
@@ -48,7 +50,7 @@ ul, ol {
 }
 
 .nav a {
-	color: #0000af;
+	color: #ffffff; /* white */
 	text-decoration: none; /* remove underscores */
 }
 /* set nav bar list items orizontally
