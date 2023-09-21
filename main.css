@@ -28,6 +28,14 @@ ul, ol {
 	padding: 0 0 0 50px;
 }
 
+/* setting padding 50px to ul (see above)
+ * move nav bar too, let's move nav  bar
+ * to the left
+ */
+.nav {
+	padding-left: 0;
+}
+
 /* set nav bar list items orizontally
  * this rule does not affect other li
  * tag in our site
