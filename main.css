@@ -57,3 +57,6 @@ ul, ol {
 	border: 1px solid #b56663; /* Add a little border for li items */
 	padding-left: 15px;
 }
+.recipes h3 {
+	border-bottom: 0; /* remove bottom border, we used it for ingredients/directions */
+}
