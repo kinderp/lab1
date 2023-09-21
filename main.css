@@ -11,7 +11,13 @@ body {
 
 .header {
 	padding: 10px 10px 10px 10px;
-	background-color: #b56663;
+	background-color: #b56663; /* red */
+}
+
+.main-content {
+	padding: 20px 20px 20px 20px;
+	border: 1px solid #dddddd; /* gray */
+	margin: 30px 0 0 0;
 }
 
 h1 {
