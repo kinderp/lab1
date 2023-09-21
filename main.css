@@ -60,3 +60,7 @@ ul, ol {
 .recipes h3 {
 	border-bottom: 0; /* remove bottom border, we used it for ingredients/directions */
 }
+.recipes a {
+	color: #7facaa;
+	text-decoration: none;
+}
