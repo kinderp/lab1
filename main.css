@@ -36,6 +36,10 @@ ul, ol {
 	padding-left: 0;
 }
 
+.nav a {
+	color: #0000af;
+	text-decoration: none; /* remove underscores */
+}
 /* set nav bar list items orizontally
  * this rule does not affect other li
  * tag in our site
