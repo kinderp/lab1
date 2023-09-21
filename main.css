@@ -53,3 +53,6 @@ ul, ol {
 	list-style-type: none; /* remove bullet points in recipes' list */
 	padding: 0; /* remove padding (left) for li items */
 }
+.recipes li {
+	border: 1px solid #b56663; /* Add a little border for li items */
+}
