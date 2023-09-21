@@ -80,6 +80,7 @@ ul, ol {
 }
 
 .main-content {
+	width: 500px;
 	padding: 20px 20px 20px 20px;
 	border: 1px solid #dddddd; /* gray */
 	margin: 30px 0 0 0;
