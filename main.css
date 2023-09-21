@@ -47,3 +47,8 @@ ul, ol {
 .nav li{
 	display: inline;
 }
+
+/* Add here style for recipes' list */
+.recipes {
+	list-style-type: none; /* remove bullet points in recipes' list */
+}
