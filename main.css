@@ -55,4 +55,5 @@ ul, ol {
 }
 .recipes li {
 	border: 1px solid #b56663; /* Add a little border for li items */
+	padding-left: 15px;
 }
