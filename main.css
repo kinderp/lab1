@@ -84,8 +84,12 @@ ul, ol {
 }
 
 .main-content {
-	width: 500px; /* fixed size */
+	width: 800px; /* fixed size */
 	padding: 20px 20px 20px 20px;
 	border: 1px solid #dddddd; /* gray */
 	margin: 30px auto 0 auto;
+}
+
+.photos li {
+	display: inline;
 }
