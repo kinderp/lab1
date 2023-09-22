@@ -83,6 +83,17 @@ ul, ol {
 	text-align: center;
 }
 
+/* img is an inline level tag
+ * we can't use text-aling so
+ * let's make it a block  tag
+ * and then use  margin  auto
+ */
+.header img {
+	display: block;
+	margin: 0 auto 0 auto;
+	width: 500px;
+}
+
 .main-content {
 	width: 800px; /* fixed size */
 	padding: 20px 20px 20px 20px;
