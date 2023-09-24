@@ -11,6 +11,9 @@ html, body, h1, h2, h3, p, ol, li, a {
 
 body {
 	padding: 0px 0px 0px 0px;
+	background: #dddddd; /* gray */
+	background-image: url(images/background.png);
+	background-size: 7%;
 }
 
 h1 {
