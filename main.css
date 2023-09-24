@@ -65,7 +65,7 @@ ul, ol {
 }
 .recipes li {
 	border: 1px solid #b56663; /* Add a little border for li items */
-	padding-left: 15px;
+	padding-left: 0px; /* remove padding left for li photo in recipes.html */
 }
 .recipes h3 {
 	border-bottom: 0; /* remove bottom border, we used it for ingredients/directions */
@@ -136,4 +136,11 @@ ul, ol {
 .featured-image a {
 	text-decoration: none;
 	color: #7facaa;
+}
+
+.recipes img {
+	float: left;
+	width: 70px;
+	height: 70px;
+	padding-right: 10px;
 }
