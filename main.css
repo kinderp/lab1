@@ -144,3 +144,56 @@ ul, ol {
 	height: 70px;
 	padding-right: 10px;
 }
+
+label, input {
+	display: block;
+}
+
+label {
+	margin-bottom: 10px;
+	width: 500px;
+}
+
+input {
+	width: 500px;
+	margin-bottom: 25px;
+}
+
+/* attribute selector */
+input[type=submit] {
+	width: 250px;
+	font-size: 30px;
+}
+
+input[type=text] {
+	border: 2px solid #7facaa;
+	font-size: 24px;
+	padding: 7px;
+}
+
+textarea {
+	width: 500px;
+	height: 400px;
+	padding: 7px;
+	border: 2px solid #7facaa;
+	margin-bottom: 25px;
+	font-size: 24px;
+}
+
+/* we set label and input as block-level tag
+ * but in this case  we  wanna have checkbox
+ * and its label on the  same row, let's set
+ * as inline tags
+ */
+input[type="checkbox"], label[for="newsletter"] {
+	display: inline;
+}
+
+input[type="checkbox"] {
+	width: 20px;
+}
+
+#suggest {
+	width: 500px;
+	margin: 0 auto 0 auto;
+}
